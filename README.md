@@ -4,7 +4,7 @@
 Welcome to my Tic Tac Toe game implemented in Java! This simple console-based game allows two players to take turns and compete against each other in the classic Tic Tac Toe (also known as Noughts and Crosses) board game.
 
 
-
+ 
 ## How to Play
 
 1.) Download or clone the repository to your local machine.
