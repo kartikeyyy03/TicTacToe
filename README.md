@@ -39,6 +39,6 @@ I welcome contributions to enhance the game and make it even more enjoyable. If 
 
 
 ## License
-This project is licensed under the MIT License - see the [LICENSE](https://choosealicense.com/licenses/mit/) file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/kartikeyyy03/TicTacToe/blob/main/LICENSE.txt) file for details.
 
 
