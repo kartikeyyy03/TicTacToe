@@ -26,6 +26,13 @@ Welcome to my Tic Tac Toe game implemented in Java! This simple console-based ga
 
 
 ## Game Screenshots
+<img width="315" alt="Screenshot 2023-08-07 151146" src="https://github.com/kartikeyyy03/TicTacToe/assets/104270854/d9366e9f-db2c-4b03-861c-f9427b907d56">
+<img width="392" alt="Screenshot 2023-08-07 151218" src="https://github.com/kartikeyyy03/TicTacToe/assets/104270854/b70f5a55-7c98-4bad-a87a-f0309477d31a">
+<img width="324" alt="Screenshot 2023-08-07 151257" src="https://github.com/kartikeyyy03/TicTacToe/assets/104270854/115c134a-a088-4013-b945-022262b91f0b">
+
+
+
+
 ## Contributing
 
 I welcome contributions to enhance the game and make it even more enjoyable. If you have any suggestions, bug fixes, or feature requests, feel free to open an issue or submit a pull request.
